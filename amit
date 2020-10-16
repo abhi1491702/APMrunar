@@ -2,6 +2,7 @@
 // C program to draw a moving car. This 
 // program run in gcc compiler having 
 // graphics.h library installed 
+// this is created by amit pratap mall
 #include <graphics.h> 
 #include <stdio.h> 
   
